@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "includePath": [
+                "${workspaceRoot}/include",
+                "C:/MinGW/include"
+            ],
+            "compilerPath": "C://MinGW/bin/gcc"
+        }
+    ],
+    "version": 4
+}
